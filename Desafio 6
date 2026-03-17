@@ -1,0 +1,16 @@
+segundos = int(input("digite a quantidade de segundos"))
+minutos = (segundos / 60)
+horas = (segundos / 3600)
+print("horas:")
+print(horas)
+print("minutos:")
+print(minutos)
+
+#inverso
+hrs = int(input("digite a quantidade de horas"))
+min1 = (hrs * 60)
+seg = (hrs * 3600)
+print("Minutos:")
+print(min1)
+print("segundos")
+print(seg)
