@@ -1,0 +1,3 @@
+#LISTA DE NOMES
+objetos = "porta","madeira","maçaneta","trinco","dobradiça"
+input(objetos)
