@@ -13,8 +13,10 @@ print(minutos)
 
 #aqui foi feita para fazer o inverso dos segundos, no caso colocamos o valor de horas e converte em segundos e minutos
 hrs = int(input("digite a quantidade de horas"))
+#'min1' foi criada como uma variável secundária para nao conflitar com a variavel 'minutos' dos segundos
 min1 = (hrs * 60)
 seg = (hrs * 3600)
+#'print' foi criada assim para mostrar exatamente a conversão das horas para minutos e segundos com a resposta embaixo
 print("Minutos:")
 print(min1)
 print("segundos")
