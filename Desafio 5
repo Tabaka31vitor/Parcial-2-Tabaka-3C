@@ -1,6 +1,0 @@
-#AREA DO TRIANGULO
-base = float(input("qual a base do triangulo?"))
-altura = float(input("qual a altura do triangulo?"))
-
-area = (base * altura) / 2
-print(area)
