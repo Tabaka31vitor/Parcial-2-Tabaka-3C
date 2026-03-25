@@ -1,6 +1,0 @@
-c = float(input("digite o valor de c"))
-i = float(input("digite o valor de i"))
-t = float(input("digite o valor de t"))
-
-j = (c*i*t) /100
-print(j)
